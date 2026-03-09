@@ -2,8 +2,8 @@ import { motion } from 'motion/react';
 import { FileText, Download, Eye } from 'lucide-react';
 import { useState } from 'react';
 import { jsPDF } from 'jspdf';
-import resumePage1 from 'figma:asset/05f0b0d64b49d8b0cbc377bcdba78aaa044e8a43.png';
-import resumePage2 from 'figma:asset/20b44b07095e3c939e28f6bfe7f5fd226d28d3e3.png';
+import resumePage1 from '../../assets/05f0b0d64b49d8b0cbc377bcdba78aaa044e8a43.png';
+import resumePage2 from '../../assets/20b44b07095e3c939e28f6bfe7f5fd226d28d3e3.png';
 
 export function Resume() {
   const [showPDF, setShowPDF] = useState(false);
