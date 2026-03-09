@@ -200,7 +200,6 @@ LinkedIn: https://linkedin.com/in/kavya-injineri-4a54532b7`,
                   onChange={(e) => setInput(e.target.value)}
                   className="flex-1 bg-transparent text-white font-mono text-sm outline-none"
                   placeholder="Type a command..."
-                  autoFocus
                 />
               </div>
             </form>
