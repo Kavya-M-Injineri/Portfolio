@@ -1,6 +1,6 @@
 # Kavya Mahantesh Injineri - Developer Portfolio
 
-A modern, clean, and professional developer portfolio website showcasing Kavya's work as a Machine Learning Engineer and Full Stack Developer.
+A modern, clean, and professional developer portfolio website showcasing my work as a Machine Learning Engineer and Full Stack Developer.
 
 ## Features
 
