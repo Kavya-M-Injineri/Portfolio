@@ -38,7 +38,7 @@ export function Projects() {
       ],
     },
     {
-      title: 'Digital Forensic Tool',
+      title: 'Digital-Forensic-Tool',
       subtitle: 'Python-Based Evidence Analysis Suite',
       technologies: 'Python, SHA-256, SleuthKit (TSK), File Carving',
       github: 'https://github.com/Kavya-M-Injineri/Digital-Forensic-Tool',
@@ -49,7 +49,7 @@ export function Projects() {
       ],
     },
     {
-      title: 'SoldierCare+',
+      title: 'SoldierCare-',
       subtitle: 'Real-Time Military Health Monitoring System',
       technologies: 'Node.js, WebSockets, React.js, Real-Time Data Streaming',
       github: 'https://github.com/Kavya-M-Injineri/SoldierCare-Plus',
