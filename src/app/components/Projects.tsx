@@ -49,7 +49,7 @@ export function Projects() {
       ],
     },
     {
-      title: 'SoldierCare-',
+      title: 'SoldierCare',
       subtitle: 'Real-Time Military Health Monitoring System',
       technologies: 'Node.js, WebSockets, React.js, Real-Time Data Streaming',
       github: 'https://github.com/Kavya-M-Injineri/SoldierCare-Plus',
